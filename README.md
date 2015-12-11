@@ -9,7 +9,7 @@ Open a terminal, enter your project directory and execute the following command 
  dependencies:
 
 ```bash
-$ composer require fleshgrinder/environment-manager
+$ composer require fleshgrinder/environment
 ```
 
 This command requires you to have Composer installed globally, as explained in the
