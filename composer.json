@@ -1,0 +1,21 @@
+{
+    "name": "fleshgrinder/environment",
+    "description": "Library to ease retrieval of environment variables.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Richard Fussenegger",
+            "email": "fleshgrinder@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fleshgrinder\\Environment\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0.0",
+        "phpunit/phpunit": "^5.1"
+    }
+}
